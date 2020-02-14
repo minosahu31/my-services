@@ -1,0 +1,10 @@
+*.gem
+*.rbc
+/tmp/
+
+# Ignore bundler config
+/.bundle
+Gemfile.lock
+
+spec/examples.txt
+
